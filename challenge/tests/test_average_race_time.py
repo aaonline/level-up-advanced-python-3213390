@@ -1,3 +1,6 @@
+import sys
+sys.path.append("/workspaces/level-up-advanced-python-3213390/challenge")
+
 from average_race_time import get_data, get_average, get_rhines_times
 
 def test_rhine_times():
